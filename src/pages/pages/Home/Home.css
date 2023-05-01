@@ -1,0 +1,24 @@
+.img1{
+    background: linear-gradient(45deg , rgba(0, 0, 0, 0.400) , rgba(0, 0, 0, 0.400)),
+     url(/images/Rectangle1.png) no-repeat center center/cover;
+}
+.img2{
+    background: linear-gradient(45deg , rgba(0, 0, 0, 0.400) , rgba(0, 0, 0, 0.400)),
+     url(/images/Rectangle2.png) no-repeat center center/cover;
+}
+.img3{
+    background: linear-gradient(45deg , rgba(0, 0, 0, 0.400) , rgba(0, 0, 0, 0.400)),
+     url(/images/Rectangle3.png) no-repeat center center/cover;
+}
+.img4{
+    background: linear-gradient(45deg , rgba(0, 0, 0, 0.400) , rgba(0, 0, 0, 0.400)),
+     url(https://images.unsplash.com/photo-1526374073174-7661a8028eb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80) no-repeat center center/cover;
+}
+.img5{
+    background: linear-gradient(45deg , rgba(0, 0, 0, 0.400) , rgba(0, 0, 0, 0.400)),
+     url(https://images.unsplash.com/photo-1604999333679-b86d54738315?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1925&q=80) no-repeat center center/cover;
+}
+.img6{
+    background: linear-gradient(45deg , rgba(0, 0, 0, 0.400) , rgba(0, 0, 0, 0.400)),
+     url(https://media.istockphoto.com/id/1402856426/photo/paris-france-city-skyline-at-eiffel-tower-and-seine-river-jena-bridge.jpg?b=1&s=170667a&w=0&k=20&c=y4lJRlXssyVgSpNNWaEaPgMHN6dslizo8af8t2n4RPU=) no-repeat center center/cover;
+}
